@@ -10,7 +10,7 @@ const Image = (props: IImageProps) => {
   const { src, alt, parentComponent: component } = props;
   return (
     <div className={`${component}-image-box`}>
-      <img src={src} alt={alt} className={`${component}-image`} />
+      <img src={`/Portfolio${src}`} alt={alt} className={`${component}-image`} />
     </div>
   );
 };
