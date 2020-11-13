@@ -13,12 +13,11 @@ const Text = (props: ITextProps) => {
         Hi, my name is Alex, and I'm a frontend developer. I love using
         functional programming concepts in JavaScript and building web
         applications with it. I'm a coding enthusiast. I've been creating web
-        applications since I was 13 - I'm currently 19 now. It's been my hobby
-        since I was a kid, the programming. My technical skills include HTML,
-        CSS, SASS, JS (JQuery, JSON, vanilla Javascript), and React. I'm currently
-        trying to get familiar with Vue, and Angular.{" "}
+        applications since I was 13 - I'm 19 now. It's been my hobby
+        since I was a kid, the programming. {" "}
       </p>
-      <p className={`${component}__text`}></p>
+      <p className={`${component}__text`}>I'm currently
+        trying to get familiar with Vue, and Angular.</p>
     </div>
   );
 };

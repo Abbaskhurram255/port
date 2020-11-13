@@ -46,7 +46,7 @@ const Project = (props: IProjectProps) => {
         <h3 className="project__name">{project}</h3>
         <p className="project__description">{projectDescription}</p>
         <p className="project__description">
-          <span className="project__tools-label">Tools used:</span>{" "}
+          <span className="project__tools-label">Languages used:</span>{" "}
           {projectTools}
         </p>
       </div>
