@@ -718,6 +718,7 @@ button:disabled {
 .contact {
   align-items: center;
   border-top: 0.4rem solid #46afb9;
+  background: #266c73;
 }
 .contact,
 .contact__title-box {
