@@ -405,10 +405,10 @@ button:disabled {
   }
 }
 .project__image-box--meal {
-  background-image: url(/Portfolio/images/meal-to-list-edit.jpg);
+  background-image: url(/Portfolio/images/meal-to-list.jpg);
 }
-.project__image-box--expensify {
-  background-image: url(/Portfolio/images/expensify-dashboard.jpg);
+.project__image-box--maze {
+  background-image: url(/Portfolio/images/maze.jpg);
 }
 .project__image-box--pantry {
   background-image: url(/Portfolio/images/the-pantry-map.jpg);
