@@ -48,7 +48,7 @@ const Project = (props: IProjectProps) => {
             rel="noopener noreferrer"
             target="_blank"
           >
-            Try on Android
+            Run on Android
           </a>
         </div>
       </div>
@@ -85,7 +85,7 @@ const Project = (props: IProjectProps) => {
             rel="noopener noreferrer"
             target="_blank"
           >
-            Try on Android
+            Run on Android
           </a>
       </div>
     </div>
