@@ -32,12 +32,12 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Want to build a new habit but you keep on failing? No? Well then I assume you are struggling to break one. You don't need to worry anymore. Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. It keeps track of your habits, and goals. Just install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day as you reach it... And voila!",
+      "Want to build a new habit? Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. Install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day you reach it... And voila!",
     image: "orchard",
     name: "Orchard",
     androidVLink: "https://github.com/Abbaskhurram255/habit-builder/raw/main/android/orchard.apk?raw=true",
     sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
-    tools: "React, HTML, CSS",
+    tools: "React, HTML, SCSS",
     url: "https://abbaskhurram255.github.io/habit-builder"
   }
 ];

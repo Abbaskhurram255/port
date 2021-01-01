@@ -25,19 +25,19 @@ export const projects: IProject[] = [
       "The Maze is a game of challenging mazes. The game has 5 difficulty levels, and each of them has infinite mazes and stages. So, this means that the game has no repeating mazes! Well, let's see if you can beat the computer",
     image: "maze",
     name: "The Maze",
-    androidVLink: "https://github.com/Abbaskhurram255/maze/raw/main/public/android/the-maze.apk?raw=true",
+    androidVLink: "https://github.com/Abbaskhurram255/maze/raw/main/public/android/the-maze.apk",
     sourceCode: "https://github.com/Abbaskhurram255/maze/",
     tools: "TS.React, HTML, SCSS",
     url: "https://alexs-maze-game.netlify.app"
   },
   {
     description:
-      "Want to build a new habit but you keep on failing? No? Well then I assume you are struggling to break one. You don't need to worry anymore. Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. It keeps track of your habits, and goals. Just install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day as you reach it... And voila!",
-    image: "orchard",
-    name: "Orchard",
-    androidVLink: "https://github.com/Abbaskhurram255/habit-builder/raw/main/android/orchard.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
-    tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/habit-builder"
+      "The Maze is a game of challenging mazes. The game has 5 difficulty levels, and each of them has infinite mazes and stages. So, this means that the game has no repeating mazes! Well, let's see if you can beat the computer",
+    image: "maze",
+    name: "The Maze",
+    androidVLink: "https://github.com/Abbaskhurram255/maze/raw/main/public/android/the-maze.apk",
+    sourceCode: "https://github.com/Abbaskhurram255/",
+    tools: "TS.React, HTML, SCSS",
+    url: "https://abbaskhurram255.github.io/"
   }
 ];
