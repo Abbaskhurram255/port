@@ -13,7 +13,7 @@ export const projects: IProject[] = [
   {
     description:
       "'Chatterbox' is a responsive web app that assists its users. It lets you know what the weather is like right now, generates you a random password for better security, remind you on events like Christmas, New Year's Eve, New Year's Day, and your birthday. It also helps you schedule your day or week, take notes; has built-in calculator, calendar/ appointments scheduler, currency converter, stopwatch, BMI Calculator, Unit Converter, Habit Tracker, Mortgage Calculator, Expense Tracker, Meal finder, Calories Tracker, Net worth Tracker, MyBookList, Movies' & TV series' cast & ratings' database, an app that motivates, lyrics-plus-encyclopedia app, recipes app, book reader, some fun games to kill your boredom, and whatnot. A simple app with multiple built-in tools!",
-    image: "chatterbox",
+    image: "meal to list",
     name: "Chatterbox",
     androidVLink: "about:blank",
     sourceCode: "https://github.com/Abbaskhurram255/Chatterbox/",
@@ -25,7 +25,7 @@ export const projects: IProject[] = [
       "The Maze is a game of challenging mazes. It has 5 difficulty levels, and each of them has infinite mazes and stages. So, this means that the game has no repeating mazes! Well, let's see if you can beat the computer",
     image: "maze",
     name: "The Maze",
-    androidVLink: "https://github.com/Abbaskhurram255/maze/raw/main/public/android/the-maze.apk?raw=true",
+    androidVLink: newFunction(),
     sourceCode: "https://github.com/Abbaskhurram255/maze/",
     tools: "TS.React, HTML, SCSS",
     url: "https://alexs-maze-game.netlify.app"
@@ -41,3 +41,7 @@ export const projects: IProject[] = [
     url: "https://abbaskhurram255.github.io/habit-builder"
   }
 ];
+function newFunction(): string {
+  return "https://github.com/Abbaskhurram255/maze/raw/main/public/android/the-maze.apk?raw=true";
+}
+
