@@ -415,7 +415,15 @@ button:disabled {
 }
 .project__image-box--orchard {
   background-image: url(/Portfolio/images/orchard.jpg);
+}.project__image-box--movies {
+  background-image: url(/Portfolio/images/movies.jpg);
 }
+.project__image-box--fisave {
+  background-image: url(/Portfolio/images/fisave.jpg);
+}.project__image-box--trivia {
+  background-image: url(/Portfolio/images/trivia.gif);
+}
+
 @media (min-width: 76.8rem) {
   .project__image-box:hover {
     background-color: #339199;
