@@ -42,32 +42,32 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Movies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
+      "Want to build a new habit but you keep on failing---or are afraid of failing, at least? No? Well then I assume you are struggling to break one. You don't need to worry anymore. Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. It keeps track of your habits, and goals. Just install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day as you reach it... And voila!",
     image: "movies",
     name: "Movies",
-    androidVLink: "https://github.com/Abbaskhurram255/movie-app/blob/main/public/android/movies.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/movie-app",
+    androidVLink: "https://github.com/Abbaskhurram255/habit-builder/blob/main/build/android/orchard.apk?raw=true",
+    sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/movie-app"
+    url: "https://abbaskhurram255.github.io/habit-builder"
   },
   {
     description:
-      "Find out how your net worth – the difference between what you own (your assets) and what you owe (your liabilities) compares to others. Understanding that difference is a great way to help you plan for the future",
+      "Want to build a new habit but you keep on failing---or are afraid of failing, at least? No? Well then I assume you are struggling to break one. You don't need to worry anymore. Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. It keeps track of your habits, and goals. Just install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day as you reach it... And voila!",
     image: "fisave",
     name: "Fisave",
-    androidVLink: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app/blob/main/public/android/fisave.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app",
+    androidVLink: "https://github.com/Abbaskhurram255/habit-builder/blob/main/build/android/orchard.apk?raw=true",
+    sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/fisave-networth-tracking-app"
+    url: "https://abbaskhurram255.github.io/habit-builder"
   },
   {
     description:
-      "Play the ultimate trivia quiz. Categories include general knowledge, entertainment, history, computer & IT, books & research, science & nature",
+      "Want to build a new habit but you keep on failing---or are afraid of failing, at least? No? Well then I assume you are struggling to break one. You don't need to worry anymore. Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. It keeps track of your habits, and goals. Just install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day as you reach it... And voila!",
     image: "trivia",
     name: "Trivia",
-    androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/blob/main/public/android/trivia.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/Trivia-Db",
+    androidVLink: "https://github.com/Abbaskhurram255/habit-builder/blob/main/build/android/orchard.apk?raw=true",
+    sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/Trivia-Db"
+    url: "https://abbaskhurram255.github.io/habit-builder"
   }
 ];

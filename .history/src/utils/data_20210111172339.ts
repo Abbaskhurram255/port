@@ -52,7 +52,7 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Find out how your net worth – the difference between what you own (your assets) and what you owe (your liabilities) compares to others. Understanding that difference is a great way to help you plan for the future",
+      "Find out how your net worth – the difference between what you own (your assets) and what you owe (your liabilities) compares to other Canadians. Understanding that difference is a great way to help you plan for the future",
     image: "fisave",
     name: "Fisave",
     androidVLink: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app/blob/main/public/android/fisave.apk?raw=true",
@@ -62,7 +62,7 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Play the ultimate trivia quiz. Categories include general knowledge, entertainment, history, computer & IT, books & research, science & nature",
+      "",
     image: "trivia",
     name: "Trivia",
     androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/blob/main/public/android/trivia.apk?raw=true",

@@ -42,7 +42,7 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Movies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
+      "",
     image: "movies",
     name: "Movies",
     androidVLink: "https://github.com/Abbaskhurram255/movie-app/blob/main/public/android/movies.apk?raw=true",
@@ -52,17 +52,17 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Find out how your net worth – the difference between what you own (your assets) and what you owe (your liabilities) compares to others. Understanding that difference is a great way to help you plan for the future",
+      "",
     image: "fisave",
     name: "Fisave",
-    androidVLink: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app/blob/main/public/android/fisave.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app",
+    androidVLink: "",
+    sourceCode: "",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/fisave-networth-tracking-app"
+    url: ""
   },
   {
     description:
-      "Play the ultimate trivia quiz. Categories include general knowledge, entertainment, history, computer & IT, books & research, science & nature",
+      "",
     image: "trivia",
     name: "Trivia",
     androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/blob/main/public/android/trivia.apk?raw=true",

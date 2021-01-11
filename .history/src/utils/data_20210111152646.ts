@@ -25,7 +25,7 @@ export const projects: IProject[] = [
       "The Maze is a game of challenging mazes. It has 5 difficulty levels, and each of them has infinite mazes and stages. So, this means that the game has no repeating mazes! Well, let's see if you can beat the computer",
     image: "maze",
     name: "The Maze",
-    androidVLink: "https://github.com/Abbaskhurram255/maze/blob/main/public/android/the-maze.apk?raw=true",
+    androidVLink: "https://github.com/Abbaskhurram255/maze/raw/main/public/android/the-maze.apk?raw=true",
     sourceCode: "https://github.com/Abbaskhurram255/maze/",
     tools: "TS.React, HTML, SCSS",
     url: "https://alexs-maze-game.netlify.app"
@@ -39,35 +39,5 @@ export const projects: IProject[] = [
     sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
     tools: "React, HTML, CSS",
     url: "https://abbaskhurram255.github.io/habit-builder"
-  },
-  {
-    description:
-      "Movies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
-    image: "movies",
-    name: "Movies",
-    androidVLink: "https://github.com/Abbaskhurram255/movie-app/blob/main/public/android/movies.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/movie-app",
-    tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/movie-app"
-  },
-  {
-    description:
-      "Find out how your net worth – the difference between what you own (your assets) and what you owe (your liabilities) compares to others. Understanding that difference is a great way to help you plan for the future",
-    image: "fisave",
-    name: "Fisave",
-    androidVLink: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app/blob/main/public/android/fisave.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app",
-    tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/fisave-networth-tracking-app"
-  },
-  {
-    description:
-      "Play the ultimate trivia quiz. Categories include general knowledge, entertainment, history, computer & IT, books & research, science & nature",
-    image: "trivia",
-    name: "Trivia",
-    androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/blob/main/public/android/trivia.apk?raw=true",
-    sourceCode: "https://github.com/Abbaskhurram255/Trivia-Db",
-    tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/Trivia-Db"
   }
 ];

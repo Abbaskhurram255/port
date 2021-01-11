@@ -62,7 +62,7 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "Play the ultimate trivia quiz. Categories include general knowledge, entertainment, history, computer & IT, books & research, science & nature",
+      "",
     image: "trivia",
     name: "Trivia",
     androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/blob/main/public/android/trivia.apk?raw=true",
