@@ -25,7 +25,7 @@ export const projects: IProject[] = [
       "The Maze is a game of challenging mazes. It has 5 difficulty levels, and each of them has infinite mazes and stages. So, this means that the game has no repeating mazes! Well, let's see if you can beat the computer",
     image: "maze",
     name: "The Maze",
-    androidVLink: "https://github.com/Abbaskhurram255/maze/releases/download/v1.0/the-maze.apk",
+    androidVLink: "https://github.com/Abbaskhurram255/maze/releases/download/1.0/the-maze.apk",
     sourceCode: "https://github.com/Abbaskhurram255/maze/",
     tools: "TS.React, HTML, SCSS",
     url: "https://alexs-maze-game.netlify.app"
@@ -35,20 +35,20 @@ export const projects: IProject[] = [
       "Want to build a new habit but you keep on failing---or are afraid of failing, at least? No? Well then I assume you are struggling to break one. You don't need to worry anymore. Orchards makes it easy! Grow forth by completing your daily goals with this minimal habit tracker. It keeps track of your habits, and goals. Just install the app, submit the habit(s) you want to build or goal(s) you want to reach, and mark the goal as done every day as you reach it... And voila!",
     image: "orchard",
     name: "Orchard",
-    androidVLink: "https://github.com/Abbaskhurram255/habit-builder/releases/download/v1.0/orchard.apk",
+    androidVLink: "https://github.com/Abbaskhurram255/habit-builder/blob/main/build/android/orchard.apk?raw=true",
     sourceCode: "https://github.com/Abbaskhurram255/habit-builder",
     tools: "React, HTML, CSS",
     url: "https://abbaskhurram255.github.io/habit-builder"
   },
   {
     description:
-      "yoMovies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
-    image: "yomovies",
-    name: "yoMovies",
-    androidVLink: "https://github.com/Abbaskhurram255/yoMovies/releases/download/v1.0/yomovies.apk",
-    sourceCode: "https://github.com/Abbaskhurram255/yoMovies",
+      "Movies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
+    image: "movies",
+    name: "Movies",
+    androidVLink: "https://github.com/Abbaskhurram255/movie-app/blob/main/public/android/movies.apk?raw=true",
+    sourceCode: "https://github.com/Abbaskhurram255/movie-app",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/yoMovies"
+    url: "https://abbaskhurram255.github.io/movie-app"
   },
   {
     description:
@@ -65,7 +65,7 @@ export const projects: IProject[] = [
       "Play the ultimate trivia quiz. Categories include general knowledge, entertainment, history, computer & IT, books & research, science & nature",
     image: "trivia",
     name: "Trivia",
-    androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/releases/download/v1.0/trivia.apk",
+    androidVLink: "https://github.com/Abbaskhurram255/Trivia-Db/blob/main/public/android/trivia.apk?raw=true",
     sourceCode: "https://github.com/Abbaskhurram255/Trivia-Db",
     tools: "React, HTML, CSS",
     url: "https://abbaskhurram255.github.io/Trivia-Db"

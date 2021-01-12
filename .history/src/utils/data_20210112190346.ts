@@ -25,7 +25,7 @@ export const projects: IProject[] = [
       "The Maze is a game of challenging mazes. It has 5 difficulty levels, and each of them has infinite mazes and stages. So, this means that the game has no repeating mazes! Well, let's see if you can beat the computer",
     image: "maze",
     name: "The Maze",
-    androidVLink: "https://github.com/Abbaskhurram255/maze/releases/download/v1.0/the-maze.apk",
+    androidVLink: "https://github.com/Abbaskhurram255/maze/releases/download/1.0/the-maze.apk",
     sourceCode: "https://github.com/Abbaskhurram255/maze/",
     tools: "TS.React, HTML, SCSS",
     url: "https://alexs-maze-game.netlify.app"
@@ -42,13 +42,13 @@ export const projects: IProject[] = [
   },
   {
     description:
-      "yoMovies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
-    image: "yomovies",
-    name: "yoMovies",
-    androidVLink: "https://github.com/Abbaskhurram255/yoMovies/releases/download/v1.0/yomovies.apk",
-    sourceCode: "https://github.com/Abbaskhurram255/yoMovies",
+      "Movies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
+    image: "movies",
+    name: "Movies",
+    androidVLink: "https://github.com/Abbaskhurram255/movie-app/releases/download/v1.0/movies.apk",
+    sourceCode: "https://github.com/Abbaskhurram255/movie-app",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/yoMovies"
+    url: "https://abbaskhurram255.github.io/movie-app"
   },
   {
     description:

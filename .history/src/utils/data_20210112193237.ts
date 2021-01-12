@@ -45,7 +45,7 @@ export const projects: IProject[] = [
       "yoMovies is an online database of information related to movies – including cast, production crew and personal biographies, plot summaries, and ratings",
     image: "yomovies",
     name: "yoMovies",
-    androidVLink: "https://github.com/Abbaskhurram255/yoMovies/releases/download/v1.0/yomovies.apk",
+    androidVLink: "https://github.com/Abbaskhurram255/yoMovies/releases/download/v1.0/movies.apk",
     sourceCode: "https://github.com/Abbaskhurram255/yoMovies",
     tools: "React, HTML, CSS",
     url: "https://abbaskhurram255.github.io/yoMovies"

@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "dependencies": {
+  "author": "Alex Puth aka Khurram <abbaskhurram255@gmail.com> (https://abbaskhurram255.github.io)",   "dependencies": {
     "@types/jest": "23.3.10",
     "@types/node": "10.12.18",
     "@types/react": "16.7.18",

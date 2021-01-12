@@ -46,7 +46,7 @@ export const projects: IProject[] = [
     image: "yomovies",
     name: "yoMovies",
     androidVLink: "https://github.com/Abbaskhurram255/yoMovies/releases/download/v1.0/yomovies.apk",
-    sourceCode: "https://github.com/Abbaskhurram255/yoMovies",
+    sourceCode: "https://github.com/Abbaskhurram255/movie-app",
     tools: "React, HTML, CSS",
     url: "https://abbaskhurram255.github.io/yoMovies"
   },
