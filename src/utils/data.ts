@@ -58,7 +58,7 @@ export const projects: IProject[] = [
     androidVLink: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app/releases/download/v1.0/fisave.apk",
     sourceCode: "https://github.com/Abbaskhurram255/fisave-networth-tracking-app",
     tools: "React, HTML, CSS",
-    url: "https://abbaskhurram255.github.io/fisave-networth-tracking-app"
+    url: "https://fi-save.netlify.app"
   },
   {
     description:
