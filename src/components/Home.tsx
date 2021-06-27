@@ -8,7 +8,7 @@ const Home = () => {
     <div className="home">
       <div className="home__text-container">
         <Title
-          title="<Alex Puth (aka Khurram) />"
+          title="<Alex (aka Khurram Ali) />"
           parentComponent="home"
           subTitle="Front-End Developer"
         />
