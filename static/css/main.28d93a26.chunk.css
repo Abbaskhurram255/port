@@ -410,17 +410,11 @@ button:disabled {
 .project__image-box--maze {
   background-image: url(/Portfolio/images/maze.jpg);
 }
-.project__image-box--pantry {
-  background-image: url(/Portfolio/images/the-pantry-map.jpg);
-}
-.project__image-box--orchard {
-  background-image: url(/Portfolio/images/orchard.jpg);
-}.project__image-box--yomovies {
+
+.project__image-box--yomovies {
   background-image: url(/Portfolio/images/yomovies.jpg);
 }
-.project__image-box--fisave {
-  background-image: url(/Portfolio/images/fisave.jpg);
-}.project__image-box--trivia {
+.project__image-box--trivia {
   background-image: url(/Portfolio/images/trivia.gif);
 }
 
